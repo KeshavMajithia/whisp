@@ -1,0 +1,65 @@
+/* style.css */
+.container {
+    width: 360px;
+    height: 800px;
+    position: relative;
+    background: #020213;
+  }
+  
+  .logo {
+    width: 244px;
+    height: 270.62px;
+    left: 58px;
+    top: 140px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .title {
+    width: 131px;
+    height: 88px;
+    left: 115px;
+    top: 424px;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: RocknRoll One;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .subtitle {
+    width: 533px;
+    height: 34px;
+    left: -86px;
+    top: 489px;
+    position: absolute;
+    text-align: center;
+    color: #B8B3B3;
+    font-size: 20px;
+    font-family: RocknRoll One;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .animation-container {
+    padding-top: 3px;
+    padding-left: 3px;
+    left: 80px;
+    top: 575px;
+    position: absolute;
+    background: #020213;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 0.50px #020213 solid;
+    justify-content: flex-end;
+    align-items: center;
+    display: inline-flex;
+  }
+  
+  .animation {
+    width: 184px;
+    height: 134px;
+  }
+  
+
+  
